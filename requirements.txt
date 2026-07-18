@@ -1,0 +1,7 @@
+
+📷 Webcam opens.
+A still image (first frame) appears.
+Drag the mouse around the object you want to track.
+Press Enter or Space to confirm the selection.
+The video becomes live and starts tracking the object.
+Press q to quit.
