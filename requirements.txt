@@ -1,3 +1,13 @@
+For Windows:
+python -m venv venv
+venv\Scripts\activate
+
+Install OpenCV
+pip install opencv-contrib-python
+
+Check the installation
+python -c "import cv2; print(cv2.__version__)"
+
 
 📷 Webcam opens.
 A still image (first frame) appears.
